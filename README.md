@@ -7,8 +7,10 @@ Here is the schematic:
 <img width="1072" height="563" alt="image" src="https://github.com/user-attachments/assets/96159639-24ae-460c-88fd-22d4060103c9" />
 
 Here is the front of the PCB:
+
 <img width="285" height="976" alt="image" src="https://github.com/user-attachments/assets/8397571d-b875-4201-87ec-1e57f0f9c672" />
 
 Here is the back of the PCB:
+
 <img width="237" height="967" alt="image" src="https://github.com/user-attachments/assets/a7749ad8-29cb-4e3e-a7c9-b6abf62937bd" />
 
